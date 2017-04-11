@@ -1,0 +1,8 @@
+{
+  "name": "shell",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wuww5511/shell.git",
+  "author": "wuweiwei <wuww5511@126.com>",
+  "license": "MIT"
+}
